@@ -1,0 +1,49 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+    color: crimson;
+    font-family: cursive;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+    font-family: monospace;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start,#status
+{
+    font-size: 22px;
+    font-family: fantasy;
+    color: hotpink;
+}
+
+h4
+{
+    background-color: rgb(186, 127, 215);
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instructions_img
+{
+    width: 45%;
+    display: inline-block;
+}
